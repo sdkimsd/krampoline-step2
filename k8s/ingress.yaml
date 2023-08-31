@@ -16,4 +16,4 @@ spec:
               serviceName: krampoline
               servicePort: 3000
             # 여러분의 app path 를 넣어주세요.
-            path: /krmp-d2hub-idock.9rum.cc/dev-test/repo_898689d1bf04(/|$)(.*)
+            path: /kb57d55fbb7bda(/|$)(.*)
